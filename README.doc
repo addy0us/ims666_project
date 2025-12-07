@@ -1,0 +1,28 @@
+
+
+	Full Name: ADRIANNA BATRISYIA 
+	ID: 202499971 
+	CLASS: CDIM262_2A 
+
+
+	Project Title: Inventory Management 	
+	Features included: 
+	- an overview cards showing total products, total stock, total sales, total purchases.
+	- inventory items that are divided into categories, prices and stocks with low stock detection and also visual charts 
+	- calculating the total revenue and table visualisations of sales overview 
+	- autoincrease inventory stock when purchased 
+	- reports page that has a combined view of inventory, sales and purchases data 
+	- log in and log out pages 
+	
+	How to Log in Inventory
+	username: admin
+	password: 12345
+	
+	Frameworks: 
+	- Bootstrap
+	- PHP
+	- HTML & CSS 
+	- Chart.js 
+	
+	Thank you. 
+	
